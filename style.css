@@ -1,0 +1,29 @@
+h2{
+    border-bottom:2px solid #e8db9d;
+    color:#83ad21;
+}
+
+
+table{
+    border:1px solid black;
+}
+
+
+td{
+    border:1px solid black;
+}
+
+
+p{
+    font-family:Pier;
+}
+
+
+footer{
+    color:#f3f8f7;
+    background-color:#e8db9d;
+}
+
+a{
+    color:white;
+}
